@@ -1,0 +1,6 @@
+name: app
+markdown: redcarpet
+#highlighter: rouge
+exclude: ["node_modes", "gulpfile.js", "package.json"]
+safe: true
+premalinks: pretty
